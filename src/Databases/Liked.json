@@ -1,0 +1,1100 @@
+{
+  "Recipes": [
+    {
+      "id": "9f6cc900-3131-4334-98af-4d649da1f473",
+      "name": "Hawaiian Garlic Shrimp",
+      "tags": [
+        "beef-free",
+        "chicken-free",
+        "egg-free",
+        "meal-plan-ok",
+        "peanut-free",
+        "pescatarian",
+        "pork-free",
+        "quick-easy",
+        "relevant-meal--main-dishes"
+      ],
+      "description": "Hawaiian garlic shrimp is made by crushing whole garlic cloves (skin-on) in a mortar and pestle to release the wonderful aroma and oils from the garlic cloves.  The crushed garlic is then slowly sautéed in butter and oil until nicely brown and crispy.  Large skin-on shrimp is sautéed with soy sauce and fish sauce and then tossed in the lovely toasted garlic.  Serve as is or with cauliflower rice.",
+      "prepareTime": 20,
+      "cookTime": 20,
+      "ingredients": [
+        {
+          "name": "Aquastar Reserve Raw Shrimp 26-30",
+          "servingSize": {
+            "units": "ounce",
+            "desc": "24 ounce",
+            "qty": 24,
+            "grams": 680,
+            "scale": 6
+          }
+        },
+        {
+          "name": "Garlic, Fresh",
+          "servingSize": {
+            "units": "clove",
+            "desc": "7 clove",
+            "qty": 7,
+            "grams": 21,
+            "scale": 7.413
+          }
+        },
+        {
+          "name": "Butter",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "2 tablespoon",
+            "qty": 2,
+            "grams": 28,
+            "scale": 2
+          }
+        },
+        {
+          "name": "Avocado Oil",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "2 tablespoon",
+            "qty": 2,
+            "grams": 27,
+            "scale": 2
+          }
+        },
+        {
+          "name": "Scallions",
+          "servingSize": {
+            "units": "large",
+            "desc": "3 large",
+            "qty": 3,
+            "grams": 75,
+            "scale": 0.75
+          }
+        },
+        {
+          "name": "Fish Sauce (nam Pla Or Nuoc Mam)",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 18,
+            "scale": 3
+          }
+        },
+        {
+          "name": "Tamari Sauce",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 16,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Brown Sugar Replacement by Swerve",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 12,
+            "scale": 3
+          }
+        }
+      ],
+      "steps": [
+        "If using frozen shrimp, fully thaw the shrimp and remove any excess water with paper towels.  Crush whole garlic cloves with skins on in a mortar and pestle until they are broken up into minced sized pieces.",
+        "In a large nonstick saute pan, combine the butter and avocado oil and heat over medium heat until melted.  Add the crushed garlic and turn the heat down to low.  Continuously stir the garlic and saute them until golden brown and toasted.  Remove the garlic from the pan to a plate and set aside.",
+        "Add shrimp and cook until half pink.  Add the soy, fish sauce and brown sugar sweetener.  ",
+        "Cook until fully pink and then add the reserved toasted garlic.  Stir and top with thinly sliced scallions.  Serve immediately!"
+      ],
+      "servings": 4,
+      "servingSizes": [
+        {
+          "scale": 1,
+          "qty": 1,
+          "grams": 170.1,
+          "units": "servings"
+        }
+      ],
+      "nutrients": {
+        "caloriesKCal": 249.343,
+        "caloriesKJ": 541.181,
+        "totalCarbs": 3.477,
+        "diabetesCarbsADA": 3.477,
+        "netCarbs": 2.813,
+        "diabetesCarbs": 2.83,
+        "fiber": 0.631,
+        "starch": 1.517,
+        "sugar": 2.323,
+        "addedSugar": 0.164,
+        "sugarAlcohols": 0.033,
+        "protein": 26.789,
+        "fat": 13.401,
+        "transFat": 0.233,
+        "monousatFat": 6.306,
+        "polyunsatFat": 1.172,
+        "omega3Fat": 0.084,
+        "omega6Fat": 1.088,
+        "saturatedFat": 4.446,
+        "cholesterol": 240.248,
+        "vitaminA": 58.079,
+        "vitaminC": 5.186,
+        "vitaminD": 0.018,
+        "vitaminE": 1.127,
+        "vitaminK": 45.623,
+        "vitaminB1": 0.024,
+        "vitaminB2": 0.032,
+        "vitaminB3": 0.33,
+        "vitaminB5": 0.071,
+        "vitaminB6": 0.1,
+        "vitaminB12": 0.034,
+        "potassium": 379.295,
+        "magnesium": 16.027,
+        "calcium": 128.454,
+        "iron": 0.461,
+        "zinc": 0.185,
+        "copper": 0.035,
+        "phosphorus": 23.602,
+        "sodium": 1416.649,
+        "selenium": 1.358,
+        "folate": 15.223,
+        "choline": 4.957,
+        "alcohol": 0,
+        "caffeine": 0,
+        "gluten": 0.018,
+        "manganese": 0.168,
+        "conjugatedLinoleicAcid": 0.019,
+        "phyticAcid": 23.532,
+        "xylitol": 0.002,
+        "isomalt": 0,
+        "sorbitol": 0,
+        "maltitol": 0,
+        "lactitol": 0,
+        "erythritol": 0,
+        "pinitol": 0.005,
+        "inositol": 0.007,
+        "mannitol": 0.019
+      },
+      "image": "https://tinyurl.com/2p82zzca/9f6cc900-3131-4334-98af-4d649da1f473.png"
+    },
+    {
+      "id": "69c0da21-2255-43a4-9e36-fdb38739d173",
+      "name": "Keto Tempura Shrimp",
+      "tags": [
+        "beef-free",
+        "chicken-free",
+        "dairy-free",
+        "egg-free",
+        "fish-free",
+        "gluten-free",
+        "keto",
+        "kid-friendly",
+        "lchf",
+        "peanut-free",
+        "quick-easy",
+        "relevant-meal--lunch",
+        "tree-nut-free",
+        "wheat-free"
+      ],
+      "description": "Tempura shrimp is a typical dish found on Chinese and sushi takeout menus across the United States. It’s a favorite appetizer or side dish to order for its simple flavors and style. Classic tempura shrimp is battered in a wet flour mixture and deep fried. This Keto recipe creates the same style of shrimp without the high carbohydrates and excess oil. Pork rinds serve as a crispy breading, and a brush of avocado oil in a cast iron skillet is all you need for frying. You can whip up this recipe as part of a fast, hot lunch or dinner. On its own, the recipe can be enjoyed as a yummy Keto snack or made in bulk for a finger-food appetizer. Enjoy your Keto tempura shrimp with friends and little ones for your next game day get together!\n\n### What Is Tempura?\n\nTempura is a Japanese style of deep frying. The cooking style can be used for all types of meats and vegetables. A classic tempura batter is made with a unique mixture of flour, eggs, and cold water. The key is to have just the right combo of cold water and hot oil for deep frying. This is what creates the iconic light, crispy, and bubbly texture tempura batter offers. The Keto rendition of tempura mirrors the same effect with pork rinds. Without deep frying, you still get the crispy texture and Keto fats without excess grease and mess.\n\n### What Type Of Pork Rinds Should I Use?\n\nTo achieve a crispy, golden outside, a pork rind breading is applied to the Keto tempura shrimp. You can find any generic bag of pork rinds at your grocery store. At your discretion, you can season your pork rind breadcrumbs when you make them. Simply add any seasoning to your food processor when blending them into crumbs. For another fun twist, you can choose spicy pork rinds to add some heat to your favorite fried foods. The finer you can grind up your pork rinds, the better they will stick to any meat you wish to bread.\n\nJessica L.",
+      "prepareTime": 8,
+      "cookTime": 5,
+      "ingredients": [
+        {
+          "name": "Shrimp Raw",
+          "servingSize": {
+            "units": "large",
+            "desc": "6 large",
+            "qty": 6,
+            "grams": 42,
+            "scale": 6
+          }
+        },
+        {
+          "name": "Fried Pork Rinds",
+          "servingSize": {
+            "units": "ounce",
+            "desc": "½ ounce",
+            "qty": 0.5,
+            "grams": 14,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Avocado Oil",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 14,
+            "scale": 1
+          }
+        }
+      ],
+      "steps": [
+        "Prepare jumbo shrimp by patting them dry. Peel and devein the shrimp if necessary. Leave the tails on to help prevent the shrimp from shrinking too much while cooking. In a small bowl, toss the shrimp with a pinch of salt and pepper to taste. Set the shrimp aside for the next step.",
+        "Make pork rind breading by pulsing fried pork rinds in a food processor until you have a fine crumb. If you don’t have a food processor, you can use a bullet blender or crush the pork rinds in a Ziploc bag with a rolling pin. Arrange the pork rind breading on a plate and coat the shrimp. Press the crumbs into the shrimp so they adhere, leaving a thin and even coating.",
+        "Brush the oil across the base of a cast iron skillet. If you don’t have a cast iron, a non-stick skillet will work here too. Heat the skillet to a medium-high heat until you see the oil just begin to smoke. Place the shrimp in the hot skillet and cook for about 2 minutes per side. Use a pair of tongs to turn the shrimp over until the breadcrumbs turn golden brown. Serve the shrimp hot."
+      ],
+      "servings": 1,
+      "servingSizes": [
+        {
+          "scale": 1,
+          "qty": 1,
+          "grams": 65,
+          "units": "serving (6pc)"
+        }
+      ],
+      "nutrients": {
+        "caloriesKCal": 227.376,
+        "caloriesKJ": 951.341,
+        "totalCarbs": 0.382,
+        "diabetesCarbsADA": 0.382,
+        "netCarbs": 0.378,
+        "diabetesCarbs": 0.38,
+        "fiber": 0,
+        "starch": 0,
+        "sugar": 0,
+        "addedSugar": 0,
+        "sugarAlcohols": 0.004,
+        "protein": 14.405,
+        "fat": 18.486,
+        "transFat": 0.044,
+        "monousatFat": 11.784,
+        "polyunsatFat": 2.477,
+        "omega3Fat": 0.151,
+        "omega6Fat": 2.202,
+        "saturatedFat": 3.297,
+        "cholesterol": 66.386,
+        "vitaminA": 24.381,
+        "vitaminC": 0.071,
+        "vitaminD": 0.021,
+        "vitaminE": 2.339,
+        "vitaminK": 12.577,
+        "vitaminB1": 0.022,
+        "vitaminB2": 0.046,
+        "vitaminB3": 0.967,
+        "vitaminB5": 0.061,
+        "vitaminB6": 0.071,
+        "vitaminB12": 0.557,
+        "potassium": 65.462,
+        "magnesium": 10.799,
+        "calcium": 26.932,
+        "iron": 0.213,
+        "zinc": 0.486,
+        "copper": 0.089,
+        "phosphorus": 114.529,
+        "sodium": 495.417,
+        "selenium": 18.244,
+        "folate": 7.98,
+        "choline": 23.344,
+        "alcohol": 0,
+        "caffeine": 0,
+        "gluten": 0,
+        "manganese": 0.01,
+        "conjugatedLinoleicAcid": 0.008,
+        "phyticAcid": 0,
+        "xylitol": 0,
+        "isomalt": 0,
+        "sorbitol": 0,
+        "maltitol": 0,
+        "lactitol": 0,
+        "erythritol": 0,
+        "pinitol": 0,
+        "inositol": 0.004,
+        "mannitol": 0
+      },
+      "image": "https://tinyurl.com/2p82zzca/69c0da21-2255-43a4-9e36-fdb38739d173.png"
+    },
+    {
+      "id": "32ebb61e-2094-4202-80d0-5ea4c070487f",
+      "name": "Keto Romesco Shrimp",
+      "tags": [
+        "beef-free",
+        "chicken-free",
+        "dairy-free",
+        "egg-free",
+        "fish-free",
+        "gluten-free",
+        "keto",
+        "kid-friendly",
+        "lchf",
+        "paleo",
+        "peanut-free",
+        "pescatarian",
+        "pork-free",
+        "quick-easy",
+        "relevant-meal--snacks",
+        "soy-free",
+        "wheat-free"
+      ],
+      "description": "Romesco sauce is the ultimate condiment. It can be used as a dipping sauce, salad dressing, and more. For a low carb snack, enjoy simply baked shrimp dipped in romesco sauce. This recipe calls for walnuts, but you can also use almonds! If you are nearing the end of your carb allotment for the day, you can decrease (or even eliminate) the tomato paste that’s used. The paste adds a nice sweetness to round out the flavors, but it also works without. To make this more of a meal, serve the shrimp over a salad or vegetables!",
+      "prepareTime": 15,
+      "cookTime": 60,
+      "ingredients": [
+        {
+          "name": "Shrimp",
+          "servingSize": {
+            "units": "medium shrimp (shelled)",
+            "desc": "18 medium shrimp",
+            "qty": 18,
+            "grams": 90,
+            "scale": 0.9
+          }
+        },
+        {
+          "name": "Olive Oil",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "3 tablespoon",
+            "qty": 3,
+            "grams": 40.5,
+            "scale": 0.405
+          }
+        },
+        {
+          "name": "Paprika",
+          "servingSize": {
+            "units": "tsp",
+            "desc": "1 tsp",
+            "qty": 1,
+            "grams": 2.1,
+            "scale": 0.021
+          }
+        },
+        {
+          "name": "Garlic Powder",
+          "servingSize": {
+            "units": "tsp",
+            "desc": "½ tsp",
+            "qty": 0.5,
+            "grams": 1.55,
+            "scale": 0.015
+          }
+        },
+        {
+          "name": "Salt",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "1 teaspoon",
+            "qty": 1,
+            "grams": 6.083,
+            "scale": 0.061
+          }
+        },
+        {
+          "name": "Red Bell Pepper",
+          "servingSize": {
+            "units": "large (2.25 per pound, approx 3-3/4 in. long, 3 in. dia)",
+            "desc": "1 large",
+            "qty": 1,
+            "grams": 164,
+            "scale": 1.64
+          }
+        },
+        {
+          "name": "Garlic",
+          "servingSize": {
+            "units": "clove",
+            "desc": "1 clove",
+            "qty": 1,
+            "grams": 3,
+            "scale": 0.03
+          }
+        },
+        {
+          "name": "Walnuts",
+          "servingSize": {
+            "units": "cup",
+            "desc": "¼ cup",
+            "qty": 0.25,
+            "grams": 30,
+            "scale": 0.3
+          }
+        },
+        {
+          "name": "Tomato Paste",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "½ tablespoon",
+            "qty": 0.5,
+            "grams": 8.188,
+            "scale": 0.082
+          }
+        },
+        {
+          "name": "Parsley",
+          "servingSize": {
+            "units": "tbsp",
+            "desc": "3 tbsp",
+            "qty": 3,
+            "grams": 11.4,
+            "scale": 0.114
+          }
+        },
+        {
+          "name": "Red Wine Vinegar",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "1 teaspoon",
+            "qty": 1,
+            "grams": 4.979,
+            "scale": 0.05
+          }
+        }
+      ],
+      "steps": [
+        "Toss peeled and deveined shrimp in a bowl with 1 Tbsp. Olive oil, 1 tsp. Paprika powder, ½ tsp. Garlic powder and 1/2 tsp. Salt. Lay shrimp on a baking sheet.",
+        "Bake at 375 degrees Fahrenheit for 2-3 minutes on each side.",
+        "Drizzle a red bell pepper with olive oil and rub the oil over the pepper. ",
+        "Roast the pepper at 375 degrees Fahrenheit for 30 minutes. Flip the pepper over and roast for another 20-30 minutes, or until the skin is roasted and browned.",
+        "Allow the pepper to fully cool before popping off the top of the pepper. Carefully remove the seeds from the center and peel the skin away from the pepper. Place the roasted pepper in a bowl and set aside.",
+        "Add the bell pepper, clove of garlic, walnuts, parsley, tomato paste, red wine vinegar, 2 Tbsp. olive oil and ½ tsp. Salt to a blender or food processor. Blend until smooth and transfer to a serving bowl. Skewer the shrimp and dip into the romesco sauce. "
+      ],
+      "servings": 4,
+      "servingSizes": [
+        {
+          "scale": 1,
+          "qty": 1,
+          "grams": 71.25,
+          "units": "servings"
+        }
+      ],
+      "nutrients": {
+        "caloriesKCal": 190.523,
+        "totalCarbs": 5.173,
+        "diabetesCarbsADA": 5.173,
+        "netCarbs": 3.383,
+        "diabetesCarbs": 3.383,
+        "fiber": 1.79,
+        "sugar": 2.265,
+        "sugarAlcohols": 0,
+        "protein": 8.118,
+        "fat": 15.775,
+        "monousatFat": 8.152,
+        "polyunsatFat": 4.885,
+        "saturatedFat": 1.985,
+        "cholesterol": 46.35,
+        "vitaminA": 106.693,
+        "vitaminC": 57.76,
+        "vitaminD": 0,
+        "vitaminE": 2.757,
+        "vitaminK": 55.718,
+        "vitaminB1": 0.065,
+        "vitaminB2": 0.07,
+        "vitaminB3": 1.26,
+        "vitaminB6": 0.233,
+        "vitaminB12": 0.212,
+        "potassium": 216.375,
+        "magnesium": 30.253,
+        "calcium": 33.1,
+        "iron": 1.525,
+        "zinc": 0.763,
+        "copper": 0.213,
+        "phosphorus": 88.502,
+        "sodium": 733.6,
+        "selenium": 12.35,
+        "folate": 32.225,
+        "choline": 31.855
+      },
+      "image": "https://tinyurl.com/2p82zzca/32ebb61e-2094-4202-80d0-5ea4c070487f.png"
+    },
+    {
+      "id": "199f529d-ce62-4b1b-b75b-92f6d83bdfee",
+      "name": "Keto Shrimp Puttanesca Soup",
+      "tags": [
+        "beef-free",
+        "egg-free",
+        "fish-free",
+        "gluten-free",
+        "keto",
+        "lchf",
+        "lunch",
+        "main-dishes",
+        "meal-plan-ok",
+        "peanut-free",
+        "pork-free",
+        "relevant-meal--lunch",
+        "soy-free",
+        "tree-nut-free",
+        "wheat-free"
+      ],
+      "description": "Pasta Puttanesca is a highly regarded dish that is hard to hate. This recipe turns the classic pasta into a yummy soup that has a much lower carb count! With a light tomato taste and a flavorful assortment of spices, you’ll find the broth very inviting. For the best experience, use the freshest ingredients and herbs you can find!\n\nJessica L.",
+      "prepareTime": 5,
+      "cookTime": 20,
+      "ingredients": [
+        {
+          "name": "Butter",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 14.188,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Crustaceans Shrimp Mixed Species Raw",
+          "servingSize": {
+            "units": "large",
+            "desc": "8 large",
+            "qty": 8,
+            "grams": 56,
+            "scale": 9.333
+          }
+        },
+        {
+          "name": "Garlic",
+          "servingSize": {
+            "units": "clove",
+            "desc": "1 clove",
+            "qty": 1,
+            "grams": 3,
+            "scale": 1.059
+          }
+        },
+        {
+          "name": "Salt",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "½ teaspoon",
+            "qty": 0.5,
+            "grams": 3.042,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Black Pepper",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "½ teaspoon",
+            "qty": 0.5,
+            "grams": 1.15,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Tomato Paste",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 16.375,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Chicken Broth",
+          "servingSize": {
+            "units": "cup",
+            "desc": "2-½ cup",
+            "qty": 2.5,
+            "grams": 600,
+            "scale": 2.5
+          }
+        },
+        {
+          "name": "Black Olives",
+          "servingSize": {
+            "units": "cup, sliced",
+            "desc": "¼ cup, sliced",
+            "qty": 0.25,
+            "grams": 33.751,
+            "scale": 8.438
+          }
+        },
+        {
+          "name": "Capers",
+          "servingSize": {
+            "units": "teaspoon, whole pieces",
+            "desc": "½ teaspoon, whole pieces",
+            "qty": 0.5,
+            "grams": 1.433,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Oregano, Dried",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "½ teaspoon",
+            "qty": 0.5,
+            "grams": 0.5,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Basil",
+          "servingSize": {
+            "units": "tablespoon, chopped",
+            "desc": "1 tablespoon, chopped",
+            "qty": 1,
+            "grams": 2.65,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Crushed Red Pepper by Simply Organic",
+          "servingSize": {
+            "units": "tsp",
+            "desc": "¼ tsp",
+            "qty": 0.25,
+            "grams": 1,
+            "scale": 0.25
+          }
+        },
+        {
+          "name": "Lemon Peel",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "¼ teaspoon",
+            "qty": 0.25,
+            "grams": 0.5,
+            "scale": 0.25
+          }
+        }
+      ],
+      "steps": [
+        "Melt the butter in a medium sized soup pot over medium-low heat. Peel (if necessary) and chop the shrimp into bite-sized pieces. Heat the shrimp in the butter until just cooked through - about 3-4 minutes.",
+        "Mince the garlic and stir it into the pot. Stir in the salt, pepper, and tomato paste as well. Then, pour in the chicken broth.",
+        "Cover the pot with a lid, and bring the soup to a strong simmer. Stir in the remaining ingredients. ",
+        "Allow the soup to simmer, uncovered, for about 10 minutes. Serve in two bowls or save a serving for another meal!"
+      ],
+      "servings": 2,
+      "servingSizes": [
+        {
+          "scale": 1,
+          "qty": 1,
+          "grams": 201,
+          "units": "bowl"
+        }
+      ],
+      "nutrients": {
+        "caloriesKCal": 167.191,
+        "caloriesKJ": 699.528,
+        "totalCarbs": 5.136,
+        "diabetesCarbsADA": 5.136,
+        "netCarbs": 3.854,
+        "diabetesCarbs": 3.88,
+        "fiber": 1.229,
+        "starch": 1.359,
+        "sugar": 1.575,
+        "addedSugar": 0.09,
+        "sugarAlcohols": 0.052,
+        "protein": 11.237,
+        "fat": 11.586,
+        "transFat": 0.285,
+        "monousatFat": 4.53,
+        "polyunsatFat": 1.255,
+        "omega3Fat": 0.079,
+        "omega6Fat": 1.093,
+        "saturatedFat": 5.071,
+        "cholesterol": 53.817,
+        "vitaminA": 107.223,
+        "vitaminC": 3.011,
+        "vitaminD": 0.118,
+        "vitaminE": 1.306,
+        "vitaminK": 9.943,
+        "vitaminB1": 0.025,
+        "vitaminB2": 0.094,
+        "vitaminB3": 4.151,
+        "vitaminB5": 0.105,
+        "vitaminB6": 0.12,
+        "vitaminB12": 0.623,
+        "potassium": 396.359,
+        "magnesium": 18.218,
+        "calcium": 60.406,
+        "iron": 1.718,
+        "zinc": 0.731,
+        "copper": 0.31,
+        "phosphorus": 173.275,
+        "sodium": 1366.599,
+        "selenium": 12.665,
+        "folate": 14.35,
+        "choline": 23.607,
+        "alcohol": 0,
+        "caffeine": 0,
+        "gluten": 0,
+        "manganese": 0.454,
+        "conjugatedLinoleicAcid": 0.025,
+        "phyticAcid": 46.695,
+        "xylitol": 0,
+        "isomalt": 0,
+        "sorbitol": 0.002,
+        "maltitol": 0,
+        "lactitol": 0,
+        "erythritol": 0,
+        "pinitol": 0,
+        "inositol": 0.005,
+        "mannitol": 0.045
+      },
+      "image": "https://tinyurl.com/2p82zzca/199f529d-ce62-4b1b-b75b-92f6d83bdfee.png"
+    },
+    {
+      "id": "65f7bf60-b475-49d4-868b-9bd8c5c8cce2",
+      "name": "Keto Shrimp Plate",
+      "tags": [
+        "beef-free",
+        "chicken-free",
+        "egg-free",
+        "fish-free",
+        "gluten-free",
+        "keto",
+        "lchf",
+        "meal-plan-ok",
+        "peanut-free",
+        "pescatarian",
+        "pork-free",
+        "quick-easy",
+        "relevant-meal--lunch",
+        "soy-free",
+        "tree-nut-free",
+        "wheat-free"
+      ],
+      "description": "Shrimp is very high in protein and is a great way to supplement your diet.  This meal can easily be adjusted for several people, simply multiply the ingredient amounts.  However, the recipe is written for one person and is easy to put together for any lunch or dinner meal.  I paired the shrimp with delicious Mediterranean flavors like sun dried tomatoes and marinated artichokes.",
+      "prepareTime": 15,
+      "cookTime": 5,
+      "ingredients": [
+        {
+          "name": "Wild Uncooked Argentinian Red Shrimp By Trader Joe's",
+          "servingSize": {
+            "units": "ounce",
+            "desc": "3 ounce",
+            "qty": 3,
+            "grams": 85.049,
+            "scale": 0.753
+          }
+        },
+        {
+          "name": "Extra Virgin Olive Oil",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "1-½ teaspoon",
+            "qty": 1.5,
+            "grams": 6.75,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Parsley, Dried",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "⅛ teaspoon",
+            "qty": 0.125,
+            "grams": 0.067,
+            "scale": 0.125
+          }
+        },
+        {
+          "name": "Spinach",
+          "servingSize": {
+            "units": "cup, cut pieces",
+            "desc": "1 cup, cut pieces",
+            "qty": 1,
+            "grams": 30.001,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Extra Virgin Olive Oil",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "1 teaspoon",
+            "qty": 1,
+            "grams": 4.5,
+            "scale": 0.333
+          }
+        },
+        {
+          "name": "Sun Dried Tomatoes",
+          "servingSize": {
+            "units": "piece",
+            "desc": "1 piece",
+            "qty": 1,
+            "grams": 3,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Quartered Marinated Artichoke Hearts by Vigo",
+          "servingSize": {
+            "units": "piece",
+            "desc": "3 piece",
+            "qty": 3,
+            "scale": 3
+          }
+        },
+        {
+          "name": "Soft Unripened Herbed Goat's Milk Cheese by President's Choice",
+          "servingSize": {
+            "units": "ounce",
+            "desc": "1 ounce",
+            "qty": 1,
+            "grams": 28.35,
+            "scale": 0.202
+          }
+        }
+      ],
+      "steps": [
+        "Place greens on a plate and drizzle with 1 teaspoon of olive oil and a sprinkle of kosher salt.  Feel free to use some vinegar to the greens as well.  Also, place on the quartered artichoke hearts, sundried tomato and sliced goat cheese.",
+        "In the meantime, set a broiler to HIGH.  Place shrimp on a baking sheet and drizzle with 1 ½ t olive oil and a sprinkle of kosher salt.  Top with dried parsley.  Broil on HIGH for 3-5 minutes or until shrimp is pink and no longer raw.",
+        "Remove shrimp from the baking sheet and place on the plate next to the greens."
+      ],
+      "servings": 1,
+      "servingSizes": [
+        {
+          "scale": 1,
+          "qty": 1,
+          "grams": 100,
+          "units": "plate"
+        }
+      ],
+      "nutrients": {
+        "caloriesKCal": 299.118,
+        "caloriesKJ": 1251.509,
+        "totalCarbs": 5.348,
+        "diabetesCarbsADA": 5.348,
+        "netCarbs": 4.467,
+        "diabetesCarbs": 4.482,
+        "fiber": 0.852,
+        "starch": 0.041,
+        "sugar": 0.549,
+        "addedSugar": 0,
+        "sugarAlcohols": 0.029,
+        "protein": 16.367,
+        "fat": 22.744,
+        "transFat": 0.019,
+        "monousatFat": 8.472,
+        "polyunsatFat": 1.298,
+        "omega3Fat": 0.131,
+        "omega6Fat": 1.167,
+        "saturatedFat": 6.674,
+        "cholesterol": 134.445,
+        "vitaminA": 278.927,
+        "vitaminC": 19.671,
+        "vitaminD": 0,
+        "vitaminE": 2.264,
+        "vitaminK": 153.321,
+        "vitaminB1": 0.029,
+        "vitaminB2": 0.07,
+        "vitaminB3": 0.332,
+        "vitaminB5": 0.034,
+        "vitaminB6": 0.069,
+        "vitaminB12": 0,
+        "potassium": 216.251,
+        "magnesium": 26.396,
+        "calcium": 67.285,
+        "iron": 3.003,
+        "zinc": 0.186,
+        "copper": 0.054,
+        "phosphorus": 19.16,
+        "sodium": 358.878,
+        "selenium": 0.399,
+        "folate": 59.01,
+        "choline": 7.197,
+        "alcohol": 0,
+        "caffeine": 0,
+        "gluten": 0,
+        "manganese": 0.29,
+        "conjugatedLinoleicAcid": 0,
+        "phyticAcid": 3.01,
+        "xylitol": 0.003,
+        "isomalt": 0,
+        "sorbitol": 0.001,
+        "maltitol": 0,
+        "lactitol": 0,
+        "erythritol": 0,
+        "pinitol": 0,
+        "inositol": 0.005,
+        "mannitol": 0.02
+      },
+      "image": "https://tinyurl.com/2p82zzca/65f7bf60-b475-49d4-868b-9bd8c5c8cce2.png"
+    },
+    {
+      "id": "c457c987-6f34-49db-bbf6-1fa376a8693d",
+      "name": "Keto Mongolian Beef",
+      "tags": [
+        "chicken-free",
+        "dairy-free",
+        "egg-free",
+        "fish-free",
+        "gluten-free",
+        "keto",
+        "lchf",
+        "peanut-free",
+        "pork-free",
+        "relevant-meal--main-dishes",
+        "shellfish-free",
+        "tree-nut-free",
+        "wheat-free"
+      ],
+      "description": "This Keto take on Mongolian beef is cooked in a sweet and sticky low carb glaze, rich with warming spices and seasonings. This is a quick and easy dinner option perfect for weeknight meals when you are short on time. Ideal served alongside your favorite Keto Chinese inspired sides.\n\n### How to Make Keto Mongolian Beef\n\nMongolian beef is often prepared with a coating of corn starch before being pan-fried with a sauce to create a sticky all-over glaze. Our easy Keto Mongolian beef is prepped with xanthan gum as an alternative to using corn starch. Using xanthan gum is a great way to thicken your Keto sauces while keeping the carb count low. Once the beef has browned, it is stir-fried with aromatic garlic, warming ginger, tangy tamari sauce and a sweet maple-flavored syrup. The delicious ingredients combine and thicken to create a sweet and sticky coating for the beef strips.\n\n### Serving Suggestions\n\nWe have served our Keto Mongolian beef with sliced scallions for extra flavor and texture. You could also serve with a scattering of fresh chopped cilantro. This easy Keto stir fry beef is perfect paired with plain Keto cauliflower rice, low carb stir-fried vegetables or Keto egg fried rice. Alternatively, this makes a great lunch filling served in simple lettuce leaf cups.",
+      "prepareTime": 10,
+      "cookTime": 12,
+      "ingredients": [
+        {
+          "name": "Beef Flank Steak",
+          "servingSize": {
+            "units": "ounce",
+            "desc": "8 ounce",
+            "qty": 8,
+            "grams": 227,
+            "scale": 8
+          }
+        },
+        {
+          "name": "Water",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "5 tablespoon",
+            "qty": 5,
+            "grams": 74,
+            "scale": 2.5
+          }
+        },
+        {
+          "name": "Scallions",
+          "servingSize": {
+            "units": "medium - 4 1/8\" long",
+            "desc": "2 medium - 4 1/8\" long",
+            "qty": 2,
+            "grams": 30,
+            "scale": 0.3
+          }
+        },
+        {
+          "name": "Olive Oil",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 14,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Xantham Gum Gluten Free by Hodgson Mill",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "scale": 3
+          }
+        },
+        {
+          "name": "Garlic",
+          "servingSize": {
+            "units": "clove",
+            "desc": "1 clove",
+            "qty": 1,
+            "grams": 3,
+            "scale": 1.059
+          }
+        },
+        {
+          "name": "Ginger Root, Raw",
+          "servingSize": {
+            "units": "slice - 1\" diameter",
+            "desc": "1 slice - 1\" diameter",
+            "qty": 1,
+            "grams": 2,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Tamari Sauce",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 16,
+            "scale": 1
+          }
+        },
+        {
+          "name": "Maple Flavored Syrup by Lakanto",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "scale": 14.787
+          }
+        }
+      ],
+      "steps": [
+        "Slice or cut the flank steak into even 1/2 inch wide strips. Add the steak strips to a medium mixing bowl. Sprinkle the xanthan gum evenly over the steak pieces. Use your hands to toss the beef and gum together, lightly coating the steak strips all over in the powder.",
+        "Heat the olive oil in a large skillet over a medium heat. Add the coated beef strips. Pan-fry the beef for 4-5 minutes until well browned all over. Remove the beef from the skillet with a slotted spoon and set to one side while you prepare the sauce.",
+        "Finely crush the garlic and grate the ginger. Add the garlic and ginger to the skillet and sweat gently for a minute to soften. Add the tamari sauce, water and maple-flavored syrup. Stir together well to combine. Simmer the sauce for a minute until bubbling and beginning to thicken.",
+        "Return the steak strips to the skillet. Stir well to combine with the sauce. Pan-fry the beef for 2-3 minutes more until the sauce is reduced right down and thickened to a sweet sticky glaze, coating the beef all over. If the skillet gets too dry, you can always add a splash more water. This will help to deglaze the pan and lift any caramelized sauce from the base of the skillet. If your sauce is not thickening, you may also add a touch more xanthan gum as required.",
+        "Roughly chop the scallions. Divide the cooked beef between two individual serving bowls and top with the chopped scallions. Serve the Mongolian beef hot accompanied by your favorite Keto Chinese inspired sides."
+      ],
+      "servings": 2,
+      "servingSizes": [
+        {
+          "scale": 1,
+          "qty": 1,
+          "grams": 116.235,
+          "units": "bowls"
+        }
+      ],
+      "nutrients": {
+        "caloriesKCal": 338.316,
+        "caloriesKJ": 1415.516,
+        "totalCarbs": 11.143,
+        "diabetesCarbsADA": 7.273,
+        "netCarbs": 1.874,
+        "diabetesCarbs": 2.638,
+        "fiber": 7.74,
+        "starch": 0.817,
+        "sugar": 0.535,
+        "addedSugar": 0,
+        "sugarAlcohols": 1.529,
+        "protein": 35.817,
+        "fat": 17.045,
+        "transFat": 0.475,
+        "monousatFat": 9.381,
+        "polyunsatFat": 1.164,
+        "omega3Fat": 0.178,
+        "omega6Fat": 0.986,
+        "saturatedFat": 4.819,
+        "cholesterol": 102.059,
+        "vitaminA": 7.481,
+        "vitaminC": 3.343,
+        "vitaminD": 0.171,
+        "vitaminE": 1.543,
+        "vitaminK": 36.841,
+        "vitaminB1": 0.094,
+        "vitaminB2": 0.212,
+        "vitaminB3": 6.351,
+        "vitaminB5": 0.733,
+        "vitaminB6": 0.499,
+        "vitaminB12": 1.939,
+        "potassium": 372.475,
+        "magnesium": 32.795,
+        "calcium": 25.436,
+        "iron": 3.277,
+        "zinc": 6.051,
+        "copper": 0.111,
+        "phosphorus": 240.306,
+        "sodium": 566.868,
+        "selenium": 36.297,
+        "folate": 22.221,
+        "choline": 135.448,
+        "alcohol": 0,
+        "caffeine": 0,
+        "gluten": 0.036,
+        "manganese": 0.144,
+        "conjugatedLinoleicAcid": 0.045,
+        "phyticAcid": 10.872,
+        "xylitol": 0.002,
+        "isomalt": 0,
+        "sorbitol": 0,
+        "maltitol": 0,
+        "lactitol": 0,
+        "erythritol": 0,
+        "pinitol": 0.011,
+        "inositol": 0.023,
+        "mannitol": 0.015
+      },
+      "image": "https://tinyurl.com/2p82zzca/c457c987-6f34-49db-bbf6-1fa376a8693d.png"
+    }
+  ]
+}

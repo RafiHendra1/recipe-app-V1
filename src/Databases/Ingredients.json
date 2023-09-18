@@ -1,0 +1,25 @@
+{
+  "ingredients": [
+    {
+      "id": "f84d72ac-a3c5-400f-a3e7-8a9161598ef7",
+      "name": "Raw Egg",
+      "servingSize": {
+        "units": "large",
+        "desc": "1 large",
+        "qty": 1,
+        "grams": 50,
+        "scale": 1
+      }
+    },
+    {
+      "id": "44f7aeef-1d69-472e-a4b5-6eb31b762408",
+      "name": "Baking Powder",
+      "servingSize": {
+        "units": "teaspoon",
+        "desc": "¼ teaspoon",
+        "qty": 0.25,
+        "scale": 0.25
+      }
+    }
+  ]
+}
