@@ -54,7 +54,7 @@ const RecipeCard = ({recipe, like}) => {
               <Box
                 
               >
-                <Typography variant="subtitle1" component="h3" fontSize={16} align='center' noWrap={true}>
+                <Typography variant="subtitle1" component="h3" fontSize={16} align='center' noWrap={true} sx={{fontWeight: 'bold'}}>
                   {recipe.name}
                 </Typography>
                 <Box

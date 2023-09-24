@@ -1,15 +1,9 @@
-import {Box, Paper, Typography, Rating, Grid, IconButton, Container, CircularProgress} from '@mui/material';
-import { createTheme, ThemeProvider, Button } from '@mui/material';
-import useFetch from '../useFetch'
-import { useState } from "react";
-import { useNavigate } from 'react-router-dom';
-import { useSelector, useDispatch } from 'react-redux'
-import { setMaxCookTime, setMaxPrepTime, setMaxNetCarbs, setMaxCalories, setMaxSugar, setRandom } from '../filterSlice'
+import {Box, Typography, Container} from '@mui/material';
+import { createTheme, ThemeProvider} from '@mui/material';
+
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet"></link>
 
 const Home = () => {
-    const navigate = useNavigate();
-    const dispatch = useDispatch();
     const theme = createTheme({
         typography: {
           fontFamily: [
@@ -18,35 +12,15 @@ const Home = () => {
           ].join(','),
         }
     })
-    
-    const RandomHandle = (e) => {
-        
-        const url = 'https://low-carb-recipes.p.rapidapi.com/random';
-        const options = {
-            method: 'GET',
-            headers: {
-                'X-RapidAPI-Key': '2b9f34813dmsh1459521228cda3bp19f5a3jsn515cf9c60be7',
-                'X-RapidAPI-Host': 'low-carb-recipes.p.rapidapi.com'
-            }
-        }
-        const { data, error, isPending } = useFetch(url, options, {blog: 'name'});
-        {(event, data) => dispatch(setRandom(data))}
-        navigate('/RandomPage/' + data.id)
-        console.log('random')
-      }
 
     return (
-        <Container>
+        <Container >
             <ThemeProvider theme={theme}>
-                <div>
+                <Box paddingY={20}>
                 <Typography align='center' fontSize={48}>Welcome to KetoMeals</Typography>
-                </div>
+                <Typography align='center' fontSize={20}>Home to 1000s of healthy recipes</Typography>
+                </Box>
             </ThemeProvider>
-            <Box sx={{display: 'flex', justifyContent: 'center', alignContent: 'center'}}>
-            <Button variant="contained" color="success" onClick={RandomHandle}>
-                Get a Random Recipe
-            </Button>
-            </Box>
         </Container>
         
      );
