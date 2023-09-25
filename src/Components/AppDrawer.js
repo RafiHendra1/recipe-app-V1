@@ -43,11 +43,6 @@ const AppDrawer = () => {
             onClick: () => navigate('/LikedRecipes')
         },
         {
-            text : 'Submit a recipe',
-            icon : <PublishIcon />,
-            onClick: () => navigate('/Publish')
-        },
-        {
             text : 'Shopping list',
             icon : <ShoppingCartIcon />,
             onClick: () => navigate('/ShoppingList')
@@ -101,7 +96,7 @@ const AppDrawer = () => {
             <Slider
             value={maxNetCarbs}
             disabled={false}
-            max={12}
+            max={8}
             min={0}
             valueLabelDisplay="auto"
             onChange={(event, newValue) => dispatch(setMaxNetCarbs(newValue))}
@@ -110,9 +105,9 @@ const AppDrawer = () => {
             <Box>
             <Typography>Max Calories: {maxCalories} kcal</Typography>
             <Slider
-            value={maxNetCarbs}
+            value={maxCalories}
             disabled={false}
-            max={12}
+            max={1000}
             min={0}
             valueLabelDisplay="auto"
             onChange={(event, newValue) => dispatch(setMaxCalories(newValue))}
@@ -121,9 +116,9 @@ const AppDrawer = () => {
             <Box>
             <Typography>Max Sugar: {maxSugar} grams</Typography>
             <Slider
-            value={maxNetCarbs}
+            value={maxSugar}
             disabled={false}
-            max={12}
+            max={8}
             min={0}
             valueLabelDisplay="auto"
             onChange={(event, newValue) => dispatch(setMaxSugar(newValue))}
