@@ -1095,6 +1095,256 @@
         "mannitol": 0.015
       },
       "image": "https://tinyurl.com/2p82zzca/c457c987-6f34-49db-bbf6-1fa376a8693d.png"
+    },
+    {
+      "id": "2a2afc40-ab4e-4827-bf85-5149c5415e81",
+      "name": "Keto Enchilada Chicken",
+      "tags": [
+        "beef-free",
+        "egg-free",
+        "fish-free",
+        "gluten-free",
+        "keto",
+        "kid-friendly",
+        "lchf",
+        "meal-plan-ok",
+        "peanut-free",
+        "pork-free",
+        "relevant-meal--main-dishes",
+        "shellfish-free",
+        "soy-free",
+        "tree-nut-free",
+        "wheat-free"
+      ],
+      "description": "This Enchilada Chicken is a crowd pleaser. The homemade enchilada sauce is Keto friendly and has so much flavor compared to canned enchilada sauces you can buy at the store. Serve this chicken with a big salad and you have a full meal!",
+      "prepareTime": 20,
+      "cookTime": 25,
+      "ingredients": [
+        {
+          "name": "Chicken Breast",
+          "servingSize": {
+            "units": "pound",
+            "desc": "¾ pound",
+            "qty": 0.75,
+            "grams": 340.194,
+            "scale": 3.402
+          }
+        },
+        {
+          "name": "Olive Oil",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 13.5,
+            "scale": 0.135
+          }
+        },
+        {
+          "name": "Salt",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "¾ teaspoon",
+            "qty": 0.75,
+            "grams": 4.562,
+            "scale": 0.046
+          }
+        },
+        {
+          "name": "Garlic Powder",
+          "servingSize": {
+            "units": "tsp",
+            "desc": "¼ tsp",
+            "qty": 0.25,
+            "grams": 0.775,
+            "scale": 0.008
+          }
+        },
+        {
+          "name": "Chili Powder",
+          "servingSize": {
+            "units": "tsp",
+            "desc": "2 tsp",
+            "qty": 2,
+            "grams": 5.2,
+            "scale": 0.052
+          }
+        },
+        {
+          "name": "Butter",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "1 tablespoon",
+            "qty": 1,
+            "grams": 14.2,
+            "scale": 0.142
+          }
+        },
+        {
+          "name": "Garlic",
+          "servingSize": {
+            "units": "clove",
+            "desc": "1 clove",
+            "qty": 1,
+            "grams": 3,
+            "scale": 0.03
+          }
+        },
+        {
+          "name": "Onions",
+          "servingSize": {
+            "units": "cup, chopped",
+            "desc": "¼ cup, chopped",
+            "qty": 0.25,
+            "grams": 40,
+            "scale": 0.4
+          }
+        },
+        {
+          "name": "Spices Cumin Seed",
+          "servingSize": {
+            "units": "tsp",
+            "desc": "½ tsp",
+            "qty": 0.5,
+            "grams": 1.05,
+            "scale": 0.175
+          }
+        },
+        {
+          "name": "Spices Oregano Dried",
+          "servingSize": {
+            "units": "tsp, leaves",
+            "desc": "½ tsp, leaves",
+            "qty": 0.5,
+            "grams": 0.5,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Spices Paprika",
+          "servingSize": {
+            "units": "tsp",
+            "desc": "¼ tsp",
+            "qty": 0.25,
+            "grams": 0.525,
+            "scale": 0.076
+          }
+        },
+        {
+          "name": "Tomato Sauce No Salt Added",
+          "servingSize": {
+            "units": "cup",
+            "desc": "½ cup",
+            "qty": 0.5,
+            "grams": 122,
+            "scale": 0.5
+          }
+        },
+        {
+          "name": "Water",
+          "servingSize": {
+            "units": "cup",
+            "desc": "⅓ cup",
+            "qty": 0.333,
+            "grams": 79,
+            "scale": 0.79
+          }
+        },
+        {
+          "name": "Apple Cider Vinegar",
+          "servingSize": {
+            "units": "teaspoon",
+            "desc": "1 teaspoon",
+            "qty": 1,
+            "grams": 4.979,
+            "scale": 0.05
+          }
+        },
+        {
+          "name": "Cheddar Cheese",
+          "servingSize": {
+            "units": "ounce",
+            "desc": "2 ounce",
+            "qty": 2,
+            "grams": 56.699,
+            "scale": 0.567
+          }
+        },
+        {
+          "name": "Cilantro",
+          "servingSize": {
+            "units": "tablespoon",
+            "desc": "2 tablespoon",
+            "qty": 2,
+            "grams": 2,
+            "scale": 0.02
+          }
+        },
+        {
+          "name": "Cauliflower Rice",
+          "servingSize": {
+            "units": "cup",
+            "desc": "1 cup",
+            "qty": 1,
+            "grams": 180,
+            "scale": 1.8
+          }
+        }
+      ],
+      "steps": [
+        "Preheat your oven to 350 degrees Fahrenheit. Add 1 tablespoon of olive oil to a pan over medium high heat. Season the chicken breast with ½ teaspoon salt, ¼ teaspoon garlic powder and ½ teaspoon chili powder and sear in the pan for 1-2 minutes on each side. Set the pan aside. ",
+        "In a small pot or skillet, heat 1 tablespoon of butter over medium heat. Once it melts, add a minced clove of garlic and ¼ cup of onion. Cook for about 1 minute, or until the onion begins to soften. ",
+        "Add ½ tablespoon chili powder, ½ teaspoon cumin, ½ teaspoon dried oregano, ¼ teaspoon paprika and stir. Cook for an additional 30 seconds, then add salt-free tomato sauce, ⅓ cup water, 1 teaspoon apple cider vinegar and ¼ teaspoon salt. Bring to a boil, reduce to a simmer and cover for about 5 minutes.",
+        "Move the chicken to the side of the pan you seared it in and pour the sauce on top. Next to the chicken, add the cauliflower rice. Place the pan in the oven for about 12-15 minutes.",
+        " Grate the cheddar cheese and place it on top of the chicken and place the pan back in the oven for 3-5 minutes. Remove from the oven and top with chopped cilantro."
+      ],
+      "servings": 3,
+      "servingSizes": [
+        {
+          "scale": 1,
+          "qty": 1,
+          "grams": 165,
+          "units": "servings"
+        }
+      ],
+      "nutrients": {
+        "caloriesKCal": 376.727,
+        "totalCarbs": 8.453,
+        "diabetesCarbsADA": 8.453,
+        "netCarbs": 5.353,
+        "diabetesCarbs": 5.353,
+        "fiber": 3.1,
+        "sugar": 3.617,
+        "sugarAlcohols": 0,
+        "protein": 41.797,
+        "fat": 19.337,
+        "monousatFat": 7.597,
+        "polyunsatFat": 1.963,
+        "saturatedFat": 8.287,
+        "cholesterol": 125.273,
+        "vitaminA": 117.817,
+        "vitaminC": 29.35,
+        "vitaminD": 0.297,
+        "vitaminE": 2.353,
+        "vitaminK": 18.077,
+        "vitaminB1": 0.137,
+        "vitaminB2": 0.273,
+        "vitaminB3": 16.273,
+        "vitaminB6": 0.917,
+        "vitaminB12": 0.55,
+        "potassium": 603.267,
+        "magnesium": 57.487,
+        "calcium": 187.29,
+        "iron": 2.603,
+        "zinc": 2.01,
+        "copper": 0.147,
+        "phosphorus": 396.873,
+        "sodium": 1378.653,
+        "selenium": 34.6,
+        "folate": 43.707,
+        "choline": 124.72
+      },
+      "image": "https://tinyurl.com/2p82zzca/2a2afc40-ab4e-4827-bf85-5149c5415e81.png"
     }
   ]
 }

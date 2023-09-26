@@ -20,6 +20,72 @@
         "qty": 0.25,
         "scale": 0.25
       }
+    },
+    {
+      "id": "04865e4e-c99e-42ea-aa52-e531203632a8",
+      "name": "Chicken Breast",
+      "servingSize": {
+        "units": "oz, boneless, raw (yield after cooking, skin removed)",
+        "desc": "20 oz, boneless, raw",
+        "qty": 20,
+        "grams": 320,
+        "scale": 3.2
+      }
+    },
+    {
+      "id": "5b311937-cd9e-40eb-b0f3-0dac8388cc1e",
+      "name": "Chipotle Peppers In Adobo Sauce by La Morena",
+      "servingSize": {
+        "units": "ounce",
+        "desc": "4 ounce",
+        "qty": 4,
+        "grams": 113.398,
+        "scale": 34.019
+      }
+    },
+    {
+      "id": "9307bc73-1056-4ea2-b74d-c017f55ac446",
+      "name": "Queso Fresco",
+      "servingSize": {
+        "units": "oz",
+        "desc": "½ oz",
+        "qty": 0.5,
+        "grams": 14.175,
+        "scale": 0.142
+      }
+    },
+    {
+      "id": "f7faef11-4f15-4832-b16a-1c532167f163",
+      "name": "Spices Cumin Seed",
+      "servingSize": {
+        "units": "tsp",
+        "desc": "½ tsp",
+        "qty": 0.5,
+        "grams": 1.05,
+        "scale": 0.175
+      }
+    },
+    {
+      "id": "41d1169a-96a3-46c4-accc-8b5dfdbca66b",
+      "name": "Cauliflower Rice",
+      "servingSize": {
+        "units": "cup",
+        "desc": "1 cup",
+        "qty": 1,
+        "grams": 180,
+        "scale": 1.8
+      }
+    },
+    {
+      "id": "04c4500d-8dd6-4d53-a79d-587be9b6d2c4",
+      "name": "Garlic",
+      "servingSize": {
+        "units": "clove",
+        "desc": "1 clove",
+        "qty": 1,
+        "grams": 3,
+        "scale": 0.03
+      }
     }
   ]
 }
