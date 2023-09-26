@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  recipes:
+    build: ./src
+    container_name: recipe_c
+    ports:
+      - '3000:3000'
+    stdin_open: true
+    tty: true
+ 
