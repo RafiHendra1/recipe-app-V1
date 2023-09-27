@@ -5,6 +5,8 @@ import App from './App';
 import store from './store'
 import { Provider } from 'react-redux'
 
+//"mongodb+srv://RafifHendra:ADozNPB0ZayiVCMl@recipecluster.p6erebe.mongodb.net/?retryWrites=true&w=majority";
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 <Provider store={store}>
