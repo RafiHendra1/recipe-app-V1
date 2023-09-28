@@ -8,6 +8,7 @@ import ListItemText from '@mui/material/ListItemText';
 import DeleteIcon from '@mui/icons-material/Delete';
 import Tooltip from '@mui/material/Tooltip';
 import {useState, useEffect} from 'react'
+import useFetch from '../useFetch';
 
 const ShoppingList = () => {
     const [loading, setLoading] = useState(null)
@@ -16,7 +17,7 @@ const ShoppingList = () => {
         setLoading(id)
         try {
             
-            const response = await fetch('http://localhost:8000/ingredients/' + id, {
+            const response = await fetch('/api/ingredients/' + id, {
               method: 'DELETE',
             });
             if (response.ok) {
@@ -31,13 +32,14 @@ const ShoppingList = () => {
           }
         
     }
+    const { data, error, isPending } = useFetch('/api/ingredients')
     return ( 
         <Container>
         <Typography component="h1" align='center' gutterBottom = {true}>
             Shopping List
         </Typography>
         <List>
-        {Ingredients.ingredients.map((item) => {
+        {data && data.map((item) => {
             const Description = <h4>{item.servingSize.desc} {item.name}</h4>
             return(
                 <ListItem key={item.id} disablePadding secondaryAction={

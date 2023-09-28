@@ -28,7 +28,7 @@ const useFetch = (url, options, params) => {
         })
         console.log("done")
         return () => abortCont.abort()
-    }, []);
+    }, [params]);
     return {data, isPending, error}
 }
 export default useFetch;

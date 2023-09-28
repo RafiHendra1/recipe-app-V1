@@ -11,7 +11,6 @@ import useFetch from '../useFetch'
 import { v4 as uuidv4 } from 'uuid';
 
 const RecipePage = () => {
-    const [details, setDetails] = useState({})
     let params = useParams();
     const url = `https://low-carb-recipes.p.rapidapi.com/recipes/${params.id}`;
     const options = {
@@ -33,7 +32,7 @@ const RecipePage = () => {
                 servingSize: Ingredient.servingSize,               
               };
             console.log('pressed')
-            fetch('http://localhost:8000/ingredients', {
+            fetch('/api/ingredients', {
                  method: 'POST',
                  headers: {'Content-Type': 'application/json'},
                  body: JSON.stringify(newIngredient)
