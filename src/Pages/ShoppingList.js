@@ -42,10 +42,10 @@ const ShoppingList = () => {
         {data && data.map((item) => {
             const Description = <h4>{item.servingSize.desc} {item.name}</h4>
             return(
-                <ListItem key={item.id} disablePadding secondaryAction={
-                    loading === item.id ? <CircularProgress/> : 
+                <ListItem key={item._id} disablePadding secondaryAction={
+                    loading === item._id ? <CircularProgress/> : 
                     (<Tooltip title="delete">
-                      <IconButton onClick={(e) => deleteHandle(e, item.id)}>
+                      <IconButton onClick={(e) => deleteHandle(e, item._id)}>
                         <DeleteIcon/>
                       </IconButton>
                     </Tooltip>)}

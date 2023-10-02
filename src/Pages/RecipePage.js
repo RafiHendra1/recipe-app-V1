@@ -27,7 +27,7 @@ const RecipePage = () => {
         const addHandler = (e, Ingredient) => {
             e.preventDefault()
             const newIngredient = {
-                id: uuidv4(), 
+                _id: uuidv4(), 
                 name: Ingredient.name,
                 servingSize: Ingredient.servingSize,               
               };

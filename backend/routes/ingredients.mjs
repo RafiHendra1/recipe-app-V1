@@ -1,11 +1,11 @@
-const express = require('express')
-const {
+import express from "express";
+import {
   getIngredients, 
   getIngredient, 
   createIngredient, 
   deleteIngredient, 
   updateIngredient
-} = require('../controllers/ingredientController')
+} from '../controllers/ingredientController.mjs';
 
 const router = express.Router()
 
@@ -24,4 +24,4 @@ router.delete('/:id', deleteIngredient)
 // UPDATE a workout
 router.patch('/:id', updateIngredient)
 
-module.exports = router
+export default router
